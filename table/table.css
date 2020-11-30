@@ -1,0 +1,172 @@
+body{
+    background-color: #B2B2B2;
+}
+.table{
+    position: absolute;
+    height: 900px;
+    max-width: 100%;
+    left: 480px;
+}
+
+.pion_blanc_0{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 575px;
+    left: 504px;
+}
+
+.pion_blanc_1{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 504px;
+}
+
+.pion_blanc_2{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 618px;
+}
+
+.pion_blanc_3{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 730px;
+}
+
+
+.pion_blanc_4{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 845px;
+}
+
+.pion_blanc_5{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 955px;
+}
+
+
+.pion_blanc_6{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 1072px;
+}
+
+.pion_blanc_7{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 1183px;
+}
+
+.pion_blanc_8{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 690px;
+    left: 1297px;
+}
+
+.pion_noir_1{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 504px;
+}
+.pion_noir_2{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 618px;
+}
+.pion_noir_3{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 730px;
+}
+.pion_noir_4{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 845px;
+}
+.pion_noir_5{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 955px;
+}
+.pion_noir_6{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 1072px;
+}
+.pion_noir_7{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 1183px;
+}
+.pion_noir_8{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 125px;
+    left: 1297px;
+}
+
+.tour_noir_1{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 15px;
+    left: 1297px;
+}
+
+.tour_noir_2{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 15px;
+    left: 504px;
+}
+
+.cheval_noir_1{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 15px;
+    left: 618px;
+}
+
+.cheval_noir_2{
+    height: 100px;
+    max-width: 100%;
+    position: absolute;
+    top: 15px;
+    left: 1183px;
+}
